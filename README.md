@@ -40,14 +40,18 @@ Make sure you have `gcc` installed. Then run: `gcc -o ppmhist ppmhist.c histogra
 2. Quantize an Image: `./quantification K input.ppm output.ppm` where K is the number of colors to keep, input.ppm is the original image, and output.ppm is the quantized image.
 
 ## 📁 Project Structure
+## 📁 Project Structure
+
+```bash
 .
-├── histogram.c # Histogram implementation
-├── histogram.h # Histogram interface
-├── quantification.c # Quantization algorithm
-├── ppmhist.c # Histogram CLI tool
-├── image.c # Image handling (PPM)
+├── histogram.c
+├── histogram.h
+├── quantification.c
+├── ppmhist.c
+├── image.c
 ├── image.h
 └── README.md
+```
 
 ## 🔧 Optional Improvements
 
