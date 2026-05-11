@@ -1,7 +1,7 @@
 # 🎨 Color Histogram & Image Quantization in C
 
 This project implements a memory-efficient **color histogram** and a **color quantization algorithm** for PPM images using the C programming language. It was developed as part of the *Foundations of Computer Science* project at ENSICAEN.
-
+TEAM MEMBER: Chaib Ouissal Amensou
 ## 📌 Features
 
 - Efficient RGB color histogram computation
